@@ -1,4 +1,4 @@
-### **SIMON Dataset – Single Individual Volunteer for Multiple Observations across Networks**
+# **SIMON Dataset – Single Individual Volunteer for Multiple Observations across Networks**
 
 ![](https://fcon_1000.projects.nitrc.org/indi/pro/_static/logo_simon.png)
 

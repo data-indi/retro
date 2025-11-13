@@ -1,4 +1,4 @@
-### **Beijing Normal University – Enhanced Sample**
+# **Beijing Normal University – Enhanced Sample**
 
 ![](https://fcon_1000.projects.nitrc.org/indi/pro/_static/logo_bnu.png)
 
