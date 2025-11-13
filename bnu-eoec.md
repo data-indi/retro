@@ -1,10 +1,5 @@
 # **Beijing Normal University – Eyes Open Eyes Closed Sample**
-
 ![](https://fcon_1000.projects.nitrc.org/indi/pro/_static/logo_bnu.png)
-
----
-
-### **Project Overview**
 
 This dataset includes data from **48 healthy control participants** recruited from the student population at **Beijing Normal University, China**. Each participant underwent **three resting-state fMRI scans** and a **64-direction diffusion tensor imaging (DTI) scan**.
 
